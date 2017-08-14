@@ -17,6 +17,6 @@
   ],
 
   "chrome_url_overrides" : {
-    "pageToOverride": "home.html"
-  },
+    "newtab": "home.html"
+  }
 }
