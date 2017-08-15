@@ -1,0 +1,19 @@
+body{
+	height:100%;
+}
+
+.wrapper{
+	height:100%;
+}
+
+.view{
+	height:100%;
+}
+
+.group{
+	white-space: nowrap;
+	height: 90%;
+	width: 480px;
+	border: 1px solid;
+	overflow: scroll;
+}
